@@ -1,0 +1,28 @@
+head	1.1;
+access;
+symbols;
+locks
+	cmalley:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2007.01.30.05.56.14;	author cmalley;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@sizes for photo images
+
+thumbnails: 145x90
+large: approx 300x450
+@

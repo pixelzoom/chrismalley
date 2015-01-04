@@ -1,0 +1,6 @@
+Make photos pop up in a separate window, sized to photo.
+Move old shows to a scrolling window on "Shows" page.
+More photos in "Photos" page
+A "play" icon in front of each sound clip on the "Music" page
+More music in "Music" page
+Clean up stuff in assets folder

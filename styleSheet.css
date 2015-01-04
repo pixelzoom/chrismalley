@@ -1,0 +1,6 @@
+body {	margin-top: 2px;	background-color: #FFFFFF;}.san12 {	font-family: Arial, Helvetica, sans-serif;	font-size: 12px;}.san14 {	font-size: 14px;	font-weight: bold;	font-family: Arial, Helvetica, sans-serif;}
+.san14-plain {	font-size: 14px;	font-family: Arial, Helvetica, sans-serif;}
+.san22 {	font-size: 22px;	font-weight: bold;	font-family: Arial, Helvetica, sans-serif;}a:link {	color: #5282C0;	text-decoration: none;}a:visited {	color: #2C346D;}a:hover {	color: #660001;}a:active {	color: #E2851D;}.san10 {	font-family: Arial, Helvetica, sans-serif;	font-size: 10px;}.Typewriter {	font-family: "Courier New", Courier, mono;	font-size: 14px;	font-weight: bold;	color: #660001;}.Typewriter2 {	font-family: "Courier New", Courier, mono;	font-size: 16px;	font-weight: bold;}
+.centered-cell {
+  text-align: center;
+} 
