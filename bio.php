@@ -57,16 +57,14 @@ After graduating from Musicians Institute with honors, I worked
 around Los Angeles as a studio musician and recording engineer. In 1990, I escaped to <b>Boulder,
 Colorado</b>, where I live now.</span>
 <br><br>
-Since moving to Colorado, I've played with a bunch of different groups - they're listed below,
+My main project is <a href="http://www.purplesquirrelmusic.com">Purple Squirrel</a>, an instrumental jazz/funk quartet. I'm the primary composer, and you can find us playing around Boulder/Denver on a regular basis.
+<br><br>
+I'm also a busy freelancer, playing with a bunch of different groups - they're listed below,
 and I encourage you to visit their web sites. 
 Visit my <a href="shows.php">Shows</a> page for a list of past and future live shows.
 I've done a lot of studio work (both as a musician and engineer), and some of that work
 is listed in my Discography below. My home recording studio can accommodate remote tracking, 
 rehearsals and CD pre-production.
-<p>
-My non-musical interests include long-distance adventure cycling and telemark skiing.
-I also run my own computer programming company, 
-<a href="http://www.pixelzoom.com" target="_blank">PixelZoom</a>.
 <br><br>
 After you've had a look around, visit my <a href="contact.php">Contact</a> page.
 Let me know what you think about the site.
@@ -83,6 +81,11 @@ Some of the artists that I've worked with...<br>
     <tr class="san12">
       <td width="20%" valign="top">
         <center>
+          <a href="http://www.purplesquirrelmusic.com" target="_blank"><img src="bio/purplesquirrel.jpg"><br>Purple Squirrel</a><br>
+        </center>
+      </td>
+      <td width="20%" valign="top">
+        <center>
           <a href="http://www.rebeccafolsom.com" target="_blank"><img src="bio/rebecca.jpg"><br>Rebecca Folsom</a><br>
         </center>
       </td>
@@ -93,17 +96,12 @@ Some of the artists that I've worked with...<br>
       </td>
       <td width="20%" valign="top">
         <center>
-          <a href="http://www.lindalewellyn.com" target="_blank"><img src="bio/lewellyn.jpg"><br>Linda Lewellyn</a><br>
-        </center>
-      </td>
-      <td width="20%" valign="top">          
-        <center>
-          <a href="http://www.funkiphino.com/" target="_blank"><img src="bio/funkiphino.jpg"><br>Funkiphino</a><br>
+          <a href="http://www.lisabellmusic.com" target="_blank"><img src="bio/lisabell.jpg"><br>Lisa Bell</a><br>
         </center>
       </td>
       <td width="20%" valign="top">
         <center>
-          <a href="http://www.martianacres.com" target="_blank"><img src="bio/martianacres.jpg"><br>Martian Acres</a><br>
+          <a href="http://www.lindalewellyn.com" target="_blank"><img src="bio/lewellyn.jpg"><br>Linda Lewellyn</a><br>
         </center>
       </td>
     </tr>
@@ -113,6 +111,28 @@ Some of the artists that I've worked with...<br>
           <a href="http://www.darrenkramer.com/" target="_blank"><img src="bio/dko.jpg"><br>Darren Kramer</a><br> 
         </center>
       </td>
+      <td width="20%" valign="top">          
+        <center>
+          <a href="http://www.funkiphino.com/" target="_blank"><img src="bio/funkiphino.jpg"><br>Funkiphino</a><br>
+        </center>
+      </td>
+      <td width="20%" valign="top">
+        <center>
+          <a href="bio/whitebredfunk.jpg" target="_blank"><img src="bio/whitebredfunk_small.jpg"><br>White Bred Funk</a><br>
+        </center>
+      </td>
+      <td width="20%" valign="top">           
+        <center>
+          <a href="bio/monkey.jpg" target="_blank"><img src="bio/monkey_small.jpg"> <br>Reese's Monkey</a><br>
+        </center>
+      </td>
+      <td width="20%" valign="top">
+        <center>
+          <a href="http://www.poetspath.com/jimcohnhomepage.html" target="_blank"><img src="bio/jimcohn.jpg"><br>Jim Cohn</a><br>
+        </center>
+      </td>
+   </tr>
+   <tr class="san12">
       <td width="20%" valign="top">
         <center>
           <a href="http://www.bobstory.com" target="_blank"><img src="bio/bobstory.jpg"><br>Bob Story</a><br>
@@ -145,33 +165,6 @@ Some of the artists that I've worked with...<br>
           <a href="http://www.ericmoonmusic.com" target="_blank"><img src="bio/ericmoon.jpg"><br>Eric Moon</a><br>
         </center>
       </td>
-      <td width="20%" valign="top">           
-        <center>
-          <a href="bio/monkey.jpg" target="_blank"><img src="bio/monkey_small.jpg"> <br>Reese's Monkey</a><br>
-        </center>
-      </td>
-      <td width="20%" valign="top">
-        <center>
-          <a href="bio/whitebredfunk.jpg" target="_blank"><img src="bio/whitebredfunk_small.jpg"><br>White Bred Funk</a><br>
-        </center>
-      </td>
-      <td width="20%" valign="top">          
-        <center>
-          <img src="bio/turkeyjammers.jpg"><br>The Turkey Jammers<br>
-        </center>
-      </td>
-    </tr>
-    <tr class="san12">
-      <td width="20%" valign="top">
-        <center>
-          <a href="http://www.colgatecountryshowdown.com" target="_blank"><img src="bio/colgate.jpg"><br>Colgate Country Showdown</a><br>
-        </center>
-      </td>
-      <td width="20%" valign="top">
-        <center>
-          <a href="http://jazzondemand.net/holverson.htm" target="_blank"><img src="bio/holly.jpg"><br>Holly Holverson</a><br>
-        </center>
-      </td>
       <td width="20%" valign="top">         
         <center>
           <a href="http://www.jenniferlaneonline.com/" target="_blank"><img src="bio/jennifer.jpg"><br>Jennifer Lane</a><br> 
@@ -182,38 +175,6 @@ Some of the artists that I've worked with...<br>
           <a href="http://www.ricardopena.net" target="_blank"><img src="bio/ricardo.jpg"><br> Ricardo Pe&ntilde;a</a>
         </center>
       </td>
-      <td width="20%" valign="top">          
-        <center>
-          <a href="http://www.bouncedOffWater.com/" target="_blank"><img src="bio/bow.jpg"><br>Bounced Off Water</a><br>
-        </center>
-      </td>
-    </tr>
-    <tr class="san12">
-      <td width="20%" valign="top">
-        <center>
-          <a href="http://www.cuezonerecords.com/cuzonecollective/reber.html" target="_blank"><img src="bio/kurtreber.jpg"><br>Kurt Reber</a><br>
-        </center>
-      </td>
-      <td width="20%" valign="top">
-        <center>
-          <a href="http://www.thebelovedinvaders.com" target="_blank"><img src="bio/bobc.jpg"><br>Bob Cannistraro</a><br>
-        </center>
-      </td>
-      <td width="20%" valign="top">
-        <center>
-          <a href="http://www.mojowatson.com" target="_blank"><img src="bio/mojowatson.jpg"><br>Mojo Watson</a><br>
-        </center>
-      </td>
-      <td width="20%" valign="top">
-        <center>
-          <img src="bio/electricfence.jpg"><br>The Electric Fence<br>
-        </center>
-      </td>
-      <td width="20%" valign="top">
-        <center>
-          <a href="http://www.poetspath.com/jimcohnhomepage.html" target="_blank"><img src="bio/jimcohn.jpg"><br>Jim Cohn</a><br>
-        </center>
-      </td>
     </tr>
   </tbody>
 </table>
@@ -222,7 +183,7 @@ Some of the artists that I've worked with...<br>
 <big><b>Influences</b></big><br>
 <br>
 <b>Guitarists:</b>
-Michael Landau, Jeff Beck, Robben Ford, Eric Johnson, Buzzy Feiten, Scott Henderson, Mike Miller, Steve Khan, John Scofield, Mike Stern, Bill Frisell, Alan Holdsworth, The Hellecasters, Steve Lukather, Tommy Emmanuel, Mike Oldfield, Jimi Hendrix, Pat Metheny, Mark Knophler, Shawn Lane, ...
+Mike Miller, Jeff Beck, Robben Ford, Michael Landau, Eric Johnson, Buzzy Feiten, Scott Henderson, Steve Khan, John Scofield, Mike Stern, Bill Frisell, Alan Holdsworth, The Hellecasters, Steve Lukather, Tommy Emmanuel, Mike Oldfield, Jimi Hendrix, Pat Metheny, Mark Knophler, Shawn Lane, ...
 <br>
 <br>
 <b>Others:</b>
@@ -247,8 +208,9 @@ Toto,
 Some of the recordings that I've appeared on...<br>
        
       <ul>
-         <li>Chris Malley & Bob Schlesinger, <i>"Split Shot"</i> (2012) - guitars and co-writer, all tracks</li>
-         <li>Rebecca Folsom, <i>"Flawless"</i>, single (2012) - guitar</li>
+         <li>Lisa Bell, <i>"The Italian Project"</i> (2013) - mandolin on 1 track</li>
+         <li>Chris Malley & Bob Schlesinger, <i>"Split Shot"</i> (2012) - guitars, co-writer, engineering, mixing, all tracks</li>
+         <li>Rebecca Folsom, <i>"Reunion"</i>, (2013) - guitar on 1 track</li>
          <li>Rebecca Folsom, <i>"Wild Women"</i>, single (2011) - guitar</li>
          <li>Joan Langford, <i>"Dancing In The Kitchen"</i> (2010) - guitar on 10 tracks, mandolin 1 track, vocals 3 tracks</li>
          <li>Rebecca Folsom, <i>"Smoke and Tears"</i>, single (2010) - guitars</li>
