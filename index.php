@@ -145,13 +145,11 @@ else {echo "<img src=\"home/$slika\" width=\"750\" height=\"494\">";}
     </td>
   </tr>
   <tr>
-    <td width="22%">&nbsp;</td>
-    <td width="62%">    
+    <td>
       <center>
         <?php include("footer.html"); ?>
       </center>
     </td>
-    <td width="16%">&nbsp;</td>
   </tr>
 </table>
 </body>
