@@ -1,6 +1,9 @@
+Purple Squirrel presence
+Social media links
+Add Lisa Bell "Walk With Me" to discography
+Downsize number of "projects" on bio page
+Host audio on Soundcloud, integrate player
 Make photos pop up in a separate window, sized to photo.
 Move old shows to a scrolling window on "Shows" page.
 More photos in "Photos" page
-A "play" icon in front of each sound clip on the "Music" page
-More music in "Music" page
 Clean up stuff in assets folder
