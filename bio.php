@@ -97,7 +97,7 @@ Toto,
 <br><br>
 <img src="images/pixel.gif" width="100%" height="1"><br>
 <big><big><b><small>My Projects</small></b></big></big><br>
-<table width="100%" border="0" align="center" cellpadding="5" cellspacing="5">
+<table width="50%" border="0" align="center" cellpadding="5" cellspacing="5">
   <tbody>
     <tr class="san12">
       <td width="20%" valign="top"><center><a href="http://www.purplesquirrelmusic.com" target="_blank"><img src="bio/purplesquirrel.jpg"><br>Purple Squirrel</a><br></center></td>
