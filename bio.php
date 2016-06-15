@@ -56,15 +56,18 @@ I graduated from Musicians Institute with honors, then worked
 around Los Angeles as a freelance musician and recording engineer. 
 In 1990, I escaped to Boulder, Colorado, where I live now.</span>
 <br><br>
-My main project is <a href="http://www.purplesquirrelmusic.com">Purple Squirrel</a>, an instrumental jazz/funk quartet. I'm the primary composer, and I've written over 100 tunes for this project (52 of them in 2014, one per week!) 
-You can catch <a href="http://www.purplesquirrelmusic.com">Purple Squirrel</a> playing around Boulder/Denver on a regular basis. Visit our website at <a href="http://www.purplesquirrelmusic.com">www.purplesquirrelmusic.com</a>.
+My main project is <a href="http://www.purplesquirrelmusic.com" target="_blank">Purple Squirrel</a>, an instrumental jazz/funk quartet. I'm the primary composer, and I've written over 100 tunes for this project (52 of them in 2014, one per week!) 
+You can catch <a href="http://www.purplesquirrelmusic.com" target="_blank">Purple Squirrel</a> playing around Boulder/Denver on a regular basis. Visit our website at <a href="http://www.purplesquirrelmusic.com" target="_blank">www.purplesquirrelmusic.com</a>.
+<br><br>
+<a href="http://www.rabblefishmusic.com" target="_blank">RabbleFish</a> is my newest project. It features original jazz compositions (some of them spontaneous!), a rotating cast of Colorado's finest musicians, taking chances, no safety net. Stay tuned as this project evolves. Visit the website at <a href="http://www.rabblefishmusic.com" target="_blank">www.rabblefishmusic.com</a>.
 <br><br>
 In addition to my own projects, I'm also a busy freelancer. Some of the artists that I perform with are listed below,
 and I encourage you to visit their web sites. 
 Visit my <a href="shows.php">Shows</a> page for a list of past and future live shows.
+<br><br>
 I've done a lot of studio work (both as a musician and engineer), and some of that work
-is listed in my Discography below. My home recording studio can accommodate remote tracking, 
-rehearsals and CD pre-production.
+is listed in my Discography below. My home recording studio can accommodate any type of project - live tracking, overdubs, 
+rehearsals, CD pre-production, ...
 <br><br>
 After you've had a look around, visit my <a href="contact.php">Contact</a> page.
 Let me know what you think about the site.
@@ -80,14 +83,13 @@ Mike Miller, Jeff Beck, Robben Ford, Michael Landau, Eric Johnson, Buzzy Feiten,
 <br>
 <b>Others:</b>
 Don Miguel Ruiz (The Four Agreements),
-Shawn Colvin, 
-John Leventhal, 
+John Leventhal (producer), 
 Elton John, 
 Miles Davis, 
 Chick Corea, 
+Herbie Hancock,
 Porcupine Tree, 
 Dixie Dregs, 
-Gong, 
 BrandX, 
 Steely Dan, 
 Toto,
