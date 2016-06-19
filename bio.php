@@ -56,7 +56,7 @@ I graduated from Musicians Institute with honors, then worked
 around Los Angeles as a freelance musician and recording engineer. 
 In 1990, I escaped to Boulder, Colorado, where I live now.</span>
 <br><br>
-My main project is <a href="http://www.purplesquirrelmusic.com" target="_blank">Purple Squirrel</a>, an instrumental jazz/funk quartet. I'm the primary composer, and I've written over 100 tunes for this project (52 of them in 2014, one per week!) 
+My main project is <a href="http://www.purplesquirrelmusic.com" target="_blank">Purple Squirrel</a>, an instrumental jazz/funk quartet. I'm the primary composer, and I've written 80+ tunes for this project (52 of them in 2014, one per week!) 
 You can catch <a href="http://www.purplesquirrelmusic.com" target="_blank">Purple Squirrel</a> playing around Boulder/Denver on a regular basis. Visit our website at <a href="http://www.purplesquirrelmusic.com" target="_blank">www.purplesquirrelmusic.com</a>.
 <br><br>
 <a href="http://www.rabblefishmusic.com" target="_blank">RabbleFish</a> is my newest project. It features original jazz compositions (some of them spontaneous!), a rotating cast of Colorado's finest musicians, taking chances, no safety net. Stay tuned as this project evolves. Visit the website at <a href="http://www.rabblefishmusic.com" target="_blank">www.rabblefishmusic.com</a>.
