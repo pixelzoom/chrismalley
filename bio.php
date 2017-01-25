@@ -176,7 +176,7 @@ Some of the other artists that I've worked with...<br>
 Some of the recordings that I've appeared on (&#8224; as leader) ...
 <br>
       <ul>
-         <li>Rebecca Folsom, <i>"Little Medicines / Extraordinary Days"</i> (2016)</li>
+         <li>Rebecca Folsom, <i>"Extraordinary Days"</i> (2016) - guitar on 1 track</li>
          <li>Lisa Bell, <i>"The Italian Project"</i> (2013) - mandolin on 1 track</li>
          <li><b>Chris Malley & Bob Schlesinger, <i>"Split Shot"</i> (2012) - guitars, co-writer, co-producer, engineer, all tracks</b>&nbsp;&#8224</li>
          <li>Rebecca Folsom, <i>"Reunion"</i>, (2013) - guitar on 1 track</li>
