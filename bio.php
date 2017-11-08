@@ -41,58 +41,45 @@
               <span class="san12">
               <br>
 Welcome to my website!
-Guitar is my main instrument, and I can double on violin, mandolin, bass guitar - anything with strings! 
-I also sing (lead and harmonies).
-I'm a versatile player, comfortable with a wide range of styles and sounds.  
-Jazz, R&amp;B, funk, blues, rock, country, bluegrass,... I'm your guy.
+Guitar is my main instrument, but I double on "things with strings" (electric bass, mandolin, ukulele, violin, ...) I also sing lead and harmonies.
+I'm a versatile player, comfortable with a wide range of styles and sounds, including  
+jazz, R&amp;B, funk, blues, rock, country and bluegrass. 
+I'm also a prolific composer of instrumental jazz/funk tunes.
 <br><br>
-I've been playing professionally most of my life, which started in Connecticut. 
-I began playing the violin at age 8, then
-picked up the guitar at age 13. My early training was in classical violin
-and theory. I developed my guitar chops playing in bands on the East coast.
-After several years of playing the clubs in New York City, I moved to Los Angeles, 
-where I attended <a href="http://www.mi.edu" target="_blank"><b>Musicians Institute</b></a>. 
+I've been playing professionally most of my life. Growing up in rural Connecticut,
+I began playing the violin at age 8, picked up the guitar at age 13, and
+developed my chops playing in bands throughout New England.
+After several years on the New York City club scene, I moved to Los Angeles, 
+where I attended <a href="http://www.mi.edu" target="_blank">Musicians Institute</a>. 
 I graduated from Musicians Institute with honors, then worked
-around Los Angeles as a freelance musician and recording engineer. 
-In 1990, I escaped to Boulder, Colorado, where I live now.</span>
+around Los Angeles as a studio musician and recording engineer. 
+In 1990, I moved to Boulder, Colorado, where I live now.</span>
 <br><br>
-My main project is <a href="http://www.purplesquirrelmusic.com" target="_blank">Purple Squirrel</a>, an instrumental jazz/funk quartet. I'm the primary composer, and I've written 80+ tunes for this project (52 of them in 2014, one per week!) 
-You can catch <a href="http://www.purplesquirrelmusic.com" target="_blank">Purple Squirrel</a> playing around Boulder/Denver on a regular basis. Visit our website at <a href="http://www.purplesquirrelmusic.com" target="_blank">www.purplesquirrelmusic.com</a>.
+For my first couple of decades in Colorado, I was a busy freelancer for singer-songwriter and cover bands. I was employed as a sideman by Nina Storey, Dan Navarro, Rebecca Folsom, Funkiphino, Lisa Bell, and Linda Lewellyn, to name a few.  Then I discovered the joys (and hassles) of being a band leader.
 <br><br>
-<a href="http://www.rabblefishmusic.com" target="_blank">RabbleFish</a> is my newest project. It features original jazz compositions (some of them spontaneous!), a rotating cast of Colorado's finest musicians, taking chances, no safety net. Stay tuned as this project evolves. Visit the website at <a href="http://www.rabblefishmusic.com" target="_blank">www.rabblefishmusic.com</a>.
+For 5 years (2012-2017), I was guitarist, composer, and "jack of all trades" for <a href="http://www.purplesquirrelmusic.com" target="_blank">Purple Squirrel</a>, an innovative jazz/funk quartet. We did about 200 shows, mostly clubs and festivals in the Denver/Boulder area. We self-released one groovy CD, "Split Shot", which you can <a href="https://itunes.apple.com/us/album/split-shot-ep/id569176002" target="_blank">find on iTunes</a>.
 <br><br>
-In addition to my own projects, I'm also a busy freelancer. Some of the artists that I perform with are listed below,
-and I encourage you to visit their web sites. 
-Visit my <a href="shows.php">Shows</a> page for a list of past and future live shows.
-<br><br>
-I've done a lot of studio work (both as a musician and engineer), and some of that work
-is listed in my Discography below. My home recording studio can accommodate any type of project - live tracking, overdubs, 
-rehearsals, CD pre-production, ...
-<br><br>
-After you've had a look around, visit my <a href="contact.php">Contact</a> page.
-Let me know what you think about the site.
-And if you're a musician who's interested in gigging, recording or songwriting, 
-don't hesitate to contact me.
+My main project these days is <a href="http://www.rabblefishmusic.com" target="_blank">RabbleFish</a>. It features my original jazz/funk compositions, and a rotating lineup of Colorado's finest musicians. Visit the Rabblefish website at <a href="http://www.rabblefishmusic.com" target="_blank">www.rabblefishmusic.com</a>.
 <br><br>
 <img src="images/pixel.gif" width="100%" height="1"><br>
 <big><b>Influences</b></big><br>
 <br>
 <b>Guitarists:</b>
-Mike Miller, Jeff Beck, Robben Ford, Michael Landau, Eric Johnson, Buzzy Feiten, Scott Henderson, Steve Khan, John Scofield, Mike Stern, Bill Frisell, Alan Holdsworth, The Hellecasters, Steve Lukather, Tommy Emmanuel, Mike Oldfield, Jimi Hendrix, Pat Metheny, Mark Knophler, Shawn Lane, ...
+Mike Miller, Jeff Beck, Robben Ford, Michael Landau, Eric Johnson, Buzzy Feiten, Scott Henderson, Steve Khan, John Scofield, Mike Stern, John Abercrombie, Bill Frisell, Alan Holdsworth, The Hellecasters, Steve Lukather, Tommy Emmanuel, Mike Oldfield, Jimi Hendrix, Pat Metheny, Mark Knophler, Shawn Lane, ...
 <br>
 <br>
 <b>Others:</b>
-Don Miguel Ruiz (The Four Agreements),
-John Leventhal (producer), 
-Elton John, 
-Miles Davis, 
 Chick Corea, 
 Herbie Hancock,
+Miles Davis, 
 Porcupine Tree, 
 Dixie Dregs, 
 BrandX, 
 Steely Dan, 
+Elton John, 
 Toto,
+John Leventhal (multi-instrumentalist and producer), 
+Don Miguel Ruiz (author of The Four Agreements),
 ...
 <br><br>
 <img src="images/pixel.gif" width="100%" height="1"><br>
@@ -100,16 +87,15 @@ Toto,
 <table width="50%" border="0" align="center" cellpadding="5" cellspacing="5">
   <tbody>
     <tr class="san12">
-      <td width="20%" valign="top"><center><a href="http://www.purplesquirrelmusic.com" target="_blank"><img src="bio/purplesquirrel.jpg"><br>Purple Squirrel</a><br></center></td>
       <td width="20%" valign="top"><center><a href="http://www.rabblefishmusic.com" target="_blank"><img src="bio/rabblefish.png"><br>RabbleFish</a><br></center>
+      <td width="20%" valign="top"><center><a href="http://www.purplesquirrelmusic.com" target="_blank"><img src="bio/purplesquirrel.jpg"><br>Purple Squirrel</a><br></center></td>
       </td>
     </tr>
   </tbody>
 </table>
 <img src="images/pixel.gif" width="100%" height="1"><br>
-<big><big><b><small>Other Artists</small></b></big></big><br>
+<big><big><b><small>Some of the Artists that I've worked with</small></b></big></big><br>
 <br>
-Some of the other artists that I've worked with...<br>
 <table width="100%" border="0" align="center" cellpadding="5" cellspacing="5">
   <tbody>
 
