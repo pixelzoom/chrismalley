@@ -24,7 +24,14 @@
                   </tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td>
-<iframe width="100%" height="700" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/69521391&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="375" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/69521391&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+</td></tr>
+<tr class="san22"><td>
+<br>
+Complete tracks from Purple Squirrel's "Split Shot" CD
+<br>
+<br>
+<iframe width="100%" height="375" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/58721502&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 </td></tr>
   <tr>
     <td>
