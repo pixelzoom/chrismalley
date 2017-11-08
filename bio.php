@@ -30,10 +30,7 @@
           </tr>
           <tr class="san12">
             <td height="824" colspan="3" valign="top">
-              <br>
-              <img src="images/pixel.gif" width="100%" height="1"><br>              <big><b>Background</b></big><br>
-              <span class="san12">
-              <br>
+<br>
 Welcome to my website!
 Guitar is my main instrument, but I double on "things with strings" (electric bass, mandolin, ukulele, violin, ...) I also sing lead and harmonies.
 I'm a versatile player, comfortable with a wide range of styles and sounds, including  
