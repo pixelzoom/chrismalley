@@ -29,21 +29,24 @@
                     <td width="672" valign="top">&nbsp;</td>
                   </tr>
                   <tr>
-                    <td colspan="2" valign="top"><b>Proudly playing and endorsing <a href="http://www.groshguitars.com" target="_blank">Grosh Guitars</a> !</b></td>
+                    <td colspan="2" valign="top">Chris Malley proudly endorses <a href="http://www.groshguitars.com" target="_blank">Grosh Guitars</a> and <a href="http://lukeramps.com" target="_blank">Luker Amplifiers</a>.</td>
                   </tr>
                   <tr>
                     <td colspan="2" valign="top">
-<a href="http://www.groshguitars.com" target="_blank"><img src="gear/grosh-logo-small.png" border="0"></a>
+Please <a href="contact.php">contact me</a> if you'd like more information about the gear that I use.
+                    </td>
+                  </tr>
+                  <tr><td>&nbsp</td></tr>
+                  <tr>
+                    <td colspan="2" valign="top">
+<a href="http://www.groshguitars.com" target="_blank"><img src="gear/grosh-logo.jpg" border="0"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="http://lukeramps.com" target="_blank"><img src="gear/luker-logo.jpg" border="0"></a>
                     </td>
                   </tr>
                   <tr>
                     <td valign="top">&nbsp;</td>
                     <td valign="top"><br>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td colspan="2" valign="top">
-Please <a href="contact.php">contact me</a> if you'd like more information about the gear that I use.
                     </td>
                   </tr>
                 </tbody>

@@ -37,7 +37,7 @@ Email:
     document.write('<a href="mailto:' + emailAddress + '">' + emailAddress + '</a>');
 </script>
 <p>
-Telephone: (303) 494-8849
+Phone: (303) 494-8849
                     </td>
                   </tr>
                 </tbody>

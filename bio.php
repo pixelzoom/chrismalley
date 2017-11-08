@@ -24,12 +24,6 @@
                   <tr>
                     <td valign="top"><b class="Typewriter2"><big><big><big>Bio</big></big></big></b></td>
                   </tr>
-                  <tr>
-                    <td valign="top">
-                      <div align="left" class="Typewriter"> Just a little bit about
-                        me...</div>
-                    </td>
-                  </tr>
                 </tbody>
               </table>
             </td>
