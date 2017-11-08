@@ -23,15 +23,25 @@
                     <td valign="top"><b class="Typewriter2"><big><big><big>Music</big></big></big></b></td>
                   </tr>
 <tr><td>&nbsp;</td></tr>
-<tr><td>
+<tr class="san22"><td>
+Various demo recordings
+<br>
+<br>
 <iframe width="100%" height="375" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/69521391&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 </td></tr>
 <tr class="san22"><td>
 <br>
-Complete tracks from Purple Squirrel's "Split Shot" CD
+Purple Squirrel - Split Shot
 <br>
 <br>
 <iframe width="100%" height="375" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/58721502&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+</td></tr>
+<tr class="san22"><td>
+<br>
+Reese's Monkey - Bigger Than It Looks
+<br>
+<br>
+<iframe width="100%" height="325" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/234595680&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 </td></tr>
   <tr>
     <td>
