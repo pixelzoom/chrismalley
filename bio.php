@@ -46,7 +46,7 @@ I graduated from Musicians Institute with honors, then worked
 around Los Angeles as a studio musician and recording engineer. 
 In 1990, I moved to Boulder, Colorado, where I live now.</span>
 <br><br>
-For my first couple of decades in Colorado, I was a busy freelancer for singer-songwriter and cover bands. I was employed as a sideman by Nina Storey, Dan Navarro, Rebecca Folsom, Ricardo Pe&ntilde;a, Funkiphino, Lisa Bell, and Linda Lewellyn, to name a few.  Then I discovered the joys (and hassles) of being a band leader.
+For my first couple of decades in Colorado, I was a busy freelancer for singer-songwriters and cover bands. Then I discovered the joys (and hassles) of being a band leader.
 <br><br>
 For 5 years (2012-2017), I was co-leader of <a href="http://www.purplesquirrelmusic.com" target="_blank">Purple Squirrel</a>, an innovative jazz/funk quartet. I composed a boatload of original tunes during this period. We did about 200 shows, mostly clubs and festivals in the Denver/Boulder area. And we self-published one groovy CD, "Split Shot", which you can <a href="https://itunes.apple.com/us/album/split-shot-ep/id569176002" target="_blank">find on iTunes</a>.
 <br><br>
