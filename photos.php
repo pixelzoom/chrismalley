@@ -25,10 +25,6 @@
                     <td valign="top"><b class="Typewriter2"><big><big><big>Photos</big></big></big></b></td>
                   </tr>
                   <tr>
-                    <td valign="top"><big><big><span class="Typewriter">
-                    Click photos to enlarge...</span></big></big></td>
-                  </tr>
-                  <tr>
                     <td valign="top">&nbsp;</td>
                   </tr>
                   <tr>
