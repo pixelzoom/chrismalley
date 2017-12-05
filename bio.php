@@ -53,27 +53,6 @@ For 5 years (2012-2017), I was co-leader of <a href="http://www.purplesquirrelmu
 My main project these days is <a href="http://www.rabblefishmusic.com" target="_blank">RabbleFish</a>. It features my original jazz/funk compositions, and a rotating lineup of Colorado's finest musicians. Visit the Rabblefish website at <a href="http://www.rabblefishmusic.com" target="_blank">www.rabblefishmusic.com</a>.
 <br><br>
 <img src="images/pixel.gif" width="100%" height="1"><br>
-<big><b>Influences</b></big><br>
-<br>
-<b>Guitarists:</b>
-Mike Miller, Jeff Beck, Robben Ford, Michael Landau, Eric Johnson, Buzzy Feiten, Scott Henderson, Steve Khan, John Scofield, Mike Stern, John Abercrombie, Bill Frisell, Alan Holdsworth, The Hellecasters, Steve Lukather, Tommy Emmanuel, Mike Oldfield, Jimi Hendrix, Pat Metheny, Mark Knophler, Shawn Lane, ...
-<br>
-<br>
-<b>Others:</b>
-Chick Corea, 
-Herbie Hancock,
-Miles Davis, 
-Porcupine Tree, 
-Dixie Dregs, 
-BrandX, 
-Steely Dan, 
-Elton John, 
-Toto,
-John Leventhal (multi-instrumentalist and producer), 
-Don Miguel Ruiz (author of The Four Agreements),
-...
-<br><br>
-<img src="images/pixel.gif" width="100%" height="1"><br>
 <big><big><b><small>My Projects</small></b></big></big><br>
 <table width="50%" border="0" align="center" cellpadding="5" cellspacing="5">
   <tbody>
@@ -84,69 +63,6 @@ Don Miguel Ruiz (author of The Four Agreements),
     </tr>
   </tbody>
 </table>
-<img src="images/pixel.gif" width="100%" height="1"><br>
-<big><big><b><small>Some of the Artists that I've worked with</small></b></big></big><br>
-<br>
-<table width="100%" border="0" align="center" cellpadding="5" cellspacing="5">
-  <tbody>
-
-    <!-- KEYS -->
-    <tr class="san12">
-      <td width="20%" valign="top"><center><a href="http://www.ericgunnison.com/" target="_blank"><img src="bio/ericgunnison.jpg"><br>Eric Gunnison</a><br></center </td>
-      <td width="20%" valign="top"><center><a href="http://www.robertschlesinger.com" target="_blank"><img src="bio/bobschlesinger.jpg"><br>Bob Schlesinger</a><br></center></td>
-      <td width="20%" valign="top"><center><a href="http://www.ericmoonmusic.com" target="_blank"><img src="bio/ericmoon.jpg"><br>Eric Moon</a><br></center></td>
-      <td width="20%" valign="top"><center><a href="http://www.revellmusic.com" target="_blank"><img src="bio/adamrevell.jpg"><br>Adam Revell</a><br></center></td>
-      <td width="20%" valign="top"><center><a href="http://www.ricardopena.net" target="_blank"><img src="bio/ricardo.jpg"><br> Ricardo Pe&ntilde;a</a></center></td>
-    </tr>
-
-    <!-- BASS -->
-    <tr class="san12">
-      <td width="20%" valign="top"><center><a href="http://www.markdiamondmusic.com" target="_blank"><img src="bio/mark_diamond.jpg"><br>Mark Diamond</a><br></center></td>
-      <td width="20%" valign="top"><center><a href="https://www.facebook.com/paul.mcdaniel.33821" target="_blank"><img src="bio/paulmcdaniel.jpg"><br>Paul McDaniel</a><br></center></td>
-      <td width="20%" valign="top"><center><a href="https://www.facebook.com/chris.engleman.9" target="_blank"><img src="bio/chrisengleman.jpg"><br>Chris Engleman</a><br></center></td>
-      <td width="20%" valign="top"><center><a href="https://ericthorin.com" target="_blank"><img src="bio/ericthorin.jpg"><br>Eric Thorin</a><br></center></td>
-      <td width="20%" valign="top"><center><a href="http://www.ericbaines.com" target="_blank"><img src="bio/ericbaines.jpg"><br>Eric Baines</a><br></center></td>
-    </tr>
-
-    <!-- DRUMS -->
-    <tr class="san12">
-      <td width="20%" valign="top"><center><a href="http://www.christianteele.com" target="_blank"><img src="bio/christianteele.jpg"><br>Christian Teele</a></center></td>
-      <td width="20%" valign="top"><center><a href="https://www.facebook.com/matthew.amundson.1?fref=ts" target="_blank"><img src="bio/mattamundson.jpg"><br>Matt Amundson</a></center></td>
-      <td width="20%" valign="top"><center><a href="http://www.deanoldencott.com/" target="_blank"><img src="bio/deano.jpg"><br>Dean Oldencott</a><br></center></td>
-      <td width="20%" valign="top"><center><a href="http://www.drumoverdubs.com" target="_blank"><img src="bio/mcrae.jpg"><br>Brian McRae</a><br></center></td>
-      <td width="20%" valign="top"><center><img src="bio/matthouston.jpg"><br>Matt Houston</a><br></center></td>
-    </tr>
-
-    <!-- HORNS -->
-    <tr class="san12">
-      <td width="20%" valign="top"><center><a href="http://www.darrenkramer.com/" target="_blank"><img src="bio/dko.jpg"><br>Darren Kramer</a><br></center></td>
-      <td width="20%" valign="top"><center><a href="http://www.bobbyrebz.com" target="_blank"><img src="bio/bobrebholz.jpg"><br>Bob Rebholz</a><br></center></td>
-      <td width="20%" valign="top"><center><a href="http://www.facebook.com/rekha.ohal" target="_blank"><img src="bio/rekhaohal.jpg"><br>Rekha Ohal</a><br></center></td>
-      <td width="20%" valign="top"><center><a href="http://www.dannavarro.com" target="_blank"><img src="bio/dannavarro.jpg"><br>Dan Navarro</a><br></center></td>
-      <td width="20%" valign="top"><center><a href="http://www.martianacres.com" target="_blank"><img src="bio/martianacres.jpg"><br>Martian Acres</a><br></center></td>
-    </tr>
-
-    <!-- SINGERS -->
-    <tr class="san12">
-      <td width="20%" valign="top"><center><a href="http://www.ninastorey.com" target="_blank"><img src="bio/ninastorey.jpg"><br>Nina Storey</a><br></center></td>
-      <td width="20%" valign="top"><center><a href="http://www.rebeccafolsom.com" target="_blank"><img src="bio/rebecca.jpg"><br>Rebecca Folsom</a><br></center></td>
-      <td width="20%" valign="top"><center><a href="http://www.lisabellmusic.com" target="_blank"><img src="bio/lisabell.jpg"><br>Lisa Bell</a><br></center></td>
-      <td width="20%" valign="top"><center><a href="http://www.lindalewellyn.com" target="_blank"><img src="bio/lewellyn.jpg"><br>Linda Lewellyn</a><br></center></td>
-      <td width="20%" valign="top"><center><a href="http://www.jenniferlaneonline.com/" target="_blank"><img src="bio/jennifer.jpg"><br>Jennifer Lane</a><br></center></td>
-    </tr>
-
-    <!-- MISC -->
-    <tr class="san12">
-      <td width="20%" valign="top"><center><a href="http://www.bobstory.com" target="_blank"><img src="bio/bobstory.jpg"><br>Bob Story</a><br></center></td>
-      <td width="20%" valign="top"><center><a href="http://www.funkiphino.com/" target="_blank"><img src="bio/funkiphino.jpg"><br>Funkiphino</a><br></center></td>
-      <td width="20%" valign="top"><center><a href="bio/whitebredfunk.jpg" target="_blank"><img src="bio/whitebredfunk_small.jpg"><br>White Bred Funk</a><br></center></td>
-      <td width="20%" valign="top"><center><a href="bio/monkey.jpg" target="_blank"><img src="bio/monkey_small.jpg"> <br>Reese's Monkey</a><br></center></td>
-      <td width="20%" valign="top"><center><a href="http://www.poetspath.com/jimcohnhomepage.html" target="_blank"><img src="bio/jimcohn.jpg"><br>Jim Cohn</a><br></center></td>
-   </tr>
-
-  </tbody>
-</table>
-<br>
 <img src="images/pixel.gif" width="100%" height="1"><br>
 <big><big><b><small>Discography</small></b></big></big><br>
 <br>
