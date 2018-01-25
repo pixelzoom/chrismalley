@@ -1,1 +1,1 @@
-Copyright © 2004-2016 Chris Malley, All Rights Reserved.
+Copyright © 2004-2018 Chris Malley, All Rights Reserved.
