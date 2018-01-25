@@ -57,7 +57,7 @@ My main project these days is <a href="http://www.rabblefishmusic.com" target="_
 <table width="50%" border="0" align="center" cellpadding="5" cellspacing="5">
   <tbody>
     <tr class="san12">
-      <td width="20%" valign="top"><center><a href="http://www.rabblefishmusic.com" target="_blank"><img src="bio/rabblefish.png"><br>RabbleFish</a><br></center>
+      <td width="20%" valign="top"><center><a href="http://www.rabblefishmusic.com" target="_blank"><img src="bio/rabblefish.png"><br>Rabblefish</a><br></center>
       <td width="20%" valign="top"><center><a href="http://www.purplesquirrelmusic.com" target="_blank"><img src="bio/purplesquirrel.jpg"><br>Purple Squirrel</a><br></center></td>
       </td>
     </tr>
