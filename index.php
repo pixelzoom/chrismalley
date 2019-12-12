@@ -119,8 +119,9 @@ function MM_swapImgRestore() { //v3.0
 
 //read folder
 $folder=opendir("home"); 
-while ($file = readdir($folder)) 
-$names[count($names)] = $file; 
+$i=0;
+while ($file = readdir($folder))
+$names[$i++] = $file; 
 closedir($folder);
 //sort file names in array
 sort($names);
