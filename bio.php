@@ -69,6 +69,7 @@ My main project these days is <a href="http://www.rabblefishmusic.com" target="_
 Some of the recordings that I've appeared on (&#8224; as leader) ...
 <br>
       <ul>
+         <li>Karen Horan, <i>"Bloodline"</i> (2019) - electric guitars</li>
          <li>Rebecca Folsom, <i>"Extraordinary Days"</i> (2016) - guitar on 1 track</li>
          <li>Lisa Bell, <i>"The Italian Project"</i> (2013) - mandolin on 1 track</li>
          <li><b>Chris Malley & Bob Schlesinger, <i>"Split Shot"</i> (2012) - guitars, co-writer, co-producer, engineer, all tracks</b>&nbsp;&#8224</li>
