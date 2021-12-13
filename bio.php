@@ -48,7 +48,7 @@ In 1990, I moved to Boulder, Colorado, where I live now.</span>
 <br><br>
 For my first couple of decades in Colorado, I was a busy freelancer for singer-songwriters and cover bands. Then I discovered the joys (and hassles) of being a band leader.
 <br><br>
-For 5 years (2012-2017), I was co-leader of <a href="http://www.purplesquirrelmusic.com" target="_blank">Purple Squirrel</a>, an innovative jazz/funk quartet. I composed a boatload of original tunes during this period. We did about 200 shows, mostly clubs and festivals in the Denver/Boulder area. And we self-published one groovy CD, "Split Shot", which you can <a href="https://itunes.apple.com/us/album/split-shot-ep/id569176002" target="_blank">find on iTunes</a>.
+For 5 years (2012-2017), I was co-leader of <a href="https://www.facebook.com/purplesquirrelmusic/" target="_blank">Purple Squirrel</a>, an innovative jazz/funk quartet. I composed a boatload of original tunes during this period. We did about 200 shows, mostly clubs and festivals in the Denver/Boulder area. And we self-published one groovy CD, "Split Shot", which you can <a href="https://itunes.apple.com/us/album/split-shot-ep/id569176002" target="_blank">find on iTunes</a>.
 <br><br>
 My main project these days is <a href="http://www.rabblefishmusic.com" target="_blank">Rabblefish</a>. It features my original jazz/funk compositions, and a rotating lineup of Colorado's finest musicians. Visit the Rabblefish website at <a href="http://www.rabblefishmusic.com" target="_blank">www.rabblefishmusic.com</a>.
 <br><br>
@@ -58,7 +58,6 @@ My main project these days is <a href="http://www.rabblefishmusic.com" target="_
   <tbody>
     <tr class="san12">
       <td width="20%" valign="top"><center><a href="http://www.rabblefishmusic.com" target="_blank"><img src="bio/rabblefish.png"><br>Rabblefish</a><br></center>
-      <td width="20%" valign="top"><center><a href="http://www.purplesquirrelmusic.com" target="_blank"><img src="bio/purplesquirrel.jpg"><br>Purple Squirrel</a><br></center></td>
       </td>
     </tr>
   </tbody>
