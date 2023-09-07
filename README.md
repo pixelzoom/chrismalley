@@ -1,4 +1,4 @@
 chrismalley
 ===========
 
-Website for guitarist Chris Malley, visit www.chrismalley.com.
+Website for guitarist Chris Malley, www.chrismalley.com
